@@ -1,3 +1,6 @@
+
+
+//branche travail perso niko
 package movieapp.entity;
 
 import javax.persistence.Column;
